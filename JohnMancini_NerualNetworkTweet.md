@@ -4,8 +4,6 @@ Software Design section 1
 
 Date: 2/18/2019
 
-Project Description:
-
 
 	For my project proposal I am interested in building a multi layered neural network for approximating the moods of tweets. <br>I think I will use tensor flow for this project, a python deep learning API. In essence, we would train a neural network with labeled tweets (these are available online with enough labeled tweets to train a neural network to reach high approximation). The labeling of these tweets would be some mood indicator. Finally, once the neural network is trained, I want to store the data from the network online and either create some sort of front-end where a user can input a tweet, or some backend where, using the twitter API, a user can run all of their thread tweets through the neural network and analyze the data.
 	
